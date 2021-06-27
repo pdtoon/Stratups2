@@ -1,0 +1,17 @@
+img{
+    width:50px;
+}
+h1{
+    font-family: 'Noto Sans HK', sans-serif;
+}
+button{
+    color: blueviolet;
+    background-color:white;
+    border: none;
+}
+div{
+    width: 30%;
+    height: auto;
+    margin: auto;
+}
+
